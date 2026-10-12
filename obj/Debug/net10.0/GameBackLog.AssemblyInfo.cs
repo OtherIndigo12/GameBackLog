@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameBackLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f732485be0124b88545582992a20b3f281fc13e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameBackLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameBackLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
